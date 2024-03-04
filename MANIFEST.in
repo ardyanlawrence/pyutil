@@ -1,0 +1,6 @@
+# Include external text files
+include requirements.txt
+include version
+
+# Exclude unit-test files
+prune tests*
